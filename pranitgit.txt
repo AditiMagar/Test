@@ -1,0 +1,4 @@
+One click apply using naukri profile.
+checkGet relevant job recommendations.
+checkShowcase profile to top companies and consultants.
+checkKnow application status on applied jobs.
